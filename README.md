@@ -1,6 +1,4 @@
-好的，这是优化后的部署指南，更强调重点和逻辑：
-
-# geminiproxy for php - 国内用户畅享 Gemini 的利器
+# geminiproxy for php
 
 **一键部署 Gemini 反向代理，解决国内访问难题！**
 
