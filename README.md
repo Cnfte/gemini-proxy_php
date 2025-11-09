@@ -54,7 +54,7 @@
 
 ### 5. 客户端配置
 
-*   **指定文件名：** 在客户端（例如 Chatbox），必须明确指定 `index.php` 或 `hx_prxy.php`。 这样客户端才能正确连接到代理。
+*   **指定文件名：** 在客户端（例如 Chatbox），必须明确指定index.php或hx_prxy.php。 这样客户端才能正确连接到代理。
 
     ![Client](img/5.png)
 
